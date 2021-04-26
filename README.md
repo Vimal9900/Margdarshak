@@ -1,2 +1,2 @@
 # Margdarshak
-This repository contains my project code of margdrasak 
+This repository contains my project code of margdarshak
